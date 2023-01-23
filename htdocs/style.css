@@ -1,0 +1,31 @@
+.header_inner
+{
+position: relative;
+margin-top:24px;
+}
+.container
+{
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.header
+{
+
+}
+.nav
+{
+  font-size: 13.5px;
+text-transform: uppercase;
+}
+
+.nav_link:hover
+{
+  color:#FFA500;
+    text-decoration: none;
+}
+
+.nav_link {
+    color:black;
+    text-decoration: none;
+}
